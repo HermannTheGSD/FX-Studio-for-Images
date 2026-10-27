@@ -1,0 +1,17 @@
+### Disclaimer of Warranty and Liability
+
+FX Studio for Images is provided free of charge and on an "as is" basis, without any warranty of any kind, to the fullest extent permitted by applicable law.
+
+Although reasonable care has been taken in developing and testing the software, the developer does not guarantee that it will operate without errors, interruptions, compatibility issues or other problems.
+
+By downloading, installing or using FX Studio for Images, you acknowledge that software installation and use involve certain risks.
+
+To the fullest extent permitted by applicable law, the developer shall not be liable for any loss, damage or other adverse consequences arising from the installation, use, misuse or inability to use the software. This includes, but is not limited to, data loss, corrupted files, system instability, software conflicts, hardware problems, security issues, loss of productivity and financial losses.
+
+Users are responsible for ensuring that their computer meets the software's requirements and for maintaining appropriate backups of important files and data.
+
+Nothing in this disclaimer excludes or limits any liability or legal rights that cannot be excluded or limited under applicable law.
+
+**FX Studio for Images**  
+HermannGSDsoftware  
+Copyright © 2026 HermannGSDsoftware
