@@ -1,9 +1,9 @@
 {
-  "version": "1.0.0",
-  "latest_version": "1.0.0",
-  "release_date": "2026-10-27",
-  "download_url": "https://github.com/HermannTheGSD/FX-Studio-for-Images/releases/download/v1.0.0/FXStudioForImages-Setup-1.0.0.exe",
-  "sha256": "7d353b98ea07d7d7e81309e5e89f92b4d51b1ff60ba5ce045315fb75c228cacb",
-  "size_bytes": 76077901,
-  "release_notes": "Initial public release of FX Studio for Images."
+  "version": "1.0.1",
+  "latest_version": "1.0.1",
+  "release_date": "2026-10-29",
+  "download_url": "https://github.com/HermannTheGSD/FX-Studio-for-Images/releases/download/v1.0.1/FXStudioForImages-Setup-1.0.1.exe",
+  "sha256": "35451f1cfce9c2e812ddae630682101b14665e94e9e8a2220444849917f88d3b",
+  "size_bytes": 76026427,
+  "release_notes": "Removed the Third-Party Licenses option from the Help menu. The bundled third-party license files remain available."
 }
